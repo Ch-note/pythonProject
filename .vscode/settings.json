@@ -1,0 +1,25 @@
+{
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.hover.enabled": false,
+  "editor.wordBasedSuggestions": "off",
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.inlineSuggest.enabled": false,
+  "editor.parameterHints.enabled": false,
+  "[python]": {
+    "editor.quickSuggestions": {
+      "other": false,
+      "comments": false,
+      "strings": false
+    },
+    "editor.suggest.showWords": false,
+    "editor.suggest.showSnippets": false
+  },
+  "typescript.suggest.enabled": false,
+  "javascript.suggest.enabled": false
+}
+
